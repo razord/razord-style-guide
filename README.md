@@ -1,8 +1,6 @@
-# The Design of RazordCSS
+# Razord Style Guide
 
-This is the repository which create by RazordCSS designer.
-
-There are all design file which can show to front-end engineer what the RazordCSS be.
+Razord Style Guide
 
 ## Updating log explain
 
