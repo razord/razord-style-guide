@@ -1,6 +1,6 @@
 # The Design of RazordCSS
 
-This is the repository which create by RazordCSS design.
+This is the repository which create by RazordCSS designer.
 
 There are all design file which can show to front-end engineer what the RazordCSS be.
 
