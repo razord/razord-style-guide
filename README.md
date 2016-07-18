@@ -7,5 +7,7 @@ There are all design file which can show to front-end engineer what the RazordCS
 ## Updating log explain
 
 `*` update something
+
 `+` add something
+
 `-` remove something
