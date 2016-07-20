@@ -1,8 +1,10 @@
 # Razord Style Guide
 
-Razord Style Guide
+Razord UI Style Guide.
 
-## Updating log explain
+updating...
+
+## Commit log
 
 `*` update something
 
